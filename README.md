@@ -8,3 +8,5 @@ FoodWeb_AI
 6.     *pip install -r requirements.txt
 7. Run Server:
 8.     npm start
+9. Live:
+10. https://food-web-ai.vercel.app/
